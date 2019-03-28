@@ -1,0 +1,16 @@
+﻿<xml xmlns="http://www.w3.org/1999/xhtml" collection="true">
+  <block type="procedures_defreturn" id="!sOBPnsu._d(R^LAju-`">
+    <field name="NAME">Amorim:: Return Pass</field>
+    <comment pinned="false" h="80" w="160">Describe this function...</comment>
+    <statement name="STACK">
+      <block type="variables_set" id="3uL_38Mo|WgMCddQ9BtA">
+        <field name="VAR" id="T=@LxH!M9kQIK^7/o2W_" variabletype="">p</field>
+        <value name="VALUE">
+          <block type="text" id="QS]_70:~QR4O!z(|cKB7">
+            <field name="TEXT">o melhor bot da binary</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+</xml>
