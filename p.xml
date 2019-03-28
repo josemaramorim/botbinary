@@ -12,5 +12,10 @@
         </value>
       </block>
     </statement>
+    <value name="RETURN">
+      <block type="variables_get" id="IPIZJR#+wV-Xjj|b06^l">
+        <field name="VAR" id="T=@LxH!M9kQIK^7/o2W_" variabletype="">p</field>
+      </block>
+    </value>
   </block>
 </xml>
